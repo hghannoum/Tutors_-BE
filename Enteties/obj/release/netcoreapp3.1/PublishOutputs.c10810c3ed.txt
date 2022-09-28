@@ -1,0 +1,3 @@
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\bin\Release\netcoreapp3.1\publish\Enteties.dll
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\bin\Release\netcoreapp3.1\publish\Enteties.deps.json
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\bin\Release\netcoreapp3.1\publish\Enteties.pdb

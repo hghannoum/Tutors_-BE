@@ -1,0 +1,12 @@
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\mrshopapi.exe
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\appsettings.json
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\mrshopapi.dll
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\mrshopapi.deps.json
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\mrshopapi.runtimeconfig.json
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\mrshopapi.pdb
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\ExcelDataReader.dll
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\DALC.dll
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\Enteties.dll
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\DALC.pdb
+C:\Users\lilyh\source\repos\mrshopapi\mrshopapi\bin\release\netcoreapp3.1\publish\Enteties.pdb

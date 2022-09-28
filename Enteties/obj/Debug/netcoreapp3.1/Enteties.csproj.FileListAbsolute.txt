@@ -1,0 +1,17 @@
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\bin\Debug\netcoreapp3.1\Enteties.deps.json
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\bin\Debug\netcoreapp3.1\Enteties.dll
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\bin\Debug\netcoreapp3.1\Enteties.pdb
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\obj\Debug\netcoreapp3.1\Enteties.csprojAssemblyReference.cache
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\obj\Debug\netcoreapp3.1\Enteties.AssemblyInfoInputs.cache
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\obj\Debug\netcoreapp3.1\Enteties.AssemblyInfo.cs
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\obj\Debug\netcoreapp3.1\Enteties.csproj.CoreCompileInputs.cache
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\obj\Debug\netcoreapp3.1\Enteties.dll
+C:\Users\lilyh\source\repos\mrshopapi\Enteties\obj\Debug\netcoreapp3.1\Enteties.pdb
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\bin\Debug\netcoreapp3.1\Enteties.deps.json
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\bin\Debug\netcoreapp3.1\Enteties.dll
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\bin\Debug\netcoreapp3.1\Enteties.pdb
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\obj\Debug\netcoreapp3.1\Enteties.AssemblyInfoInputs.cache
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\obj\Debug\netcoreapp3.1\Enteties.AssemblyInfo.cs
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\obj\Debug\netcoreapp3.1\Enteties.csproj.CoreCompileInputs.cache
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\obj\Debug\netcoreapp3.1\Enteties.dll
+C:\Users\lilyh\source\repos\Tutors.Leb\Enteties\obj\Debug\netcoreapp3.1\Enteties.pdb

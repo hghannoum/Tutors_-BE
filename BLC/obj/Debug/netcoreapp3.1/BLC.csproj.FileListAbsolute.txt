@@ -1,0 +1,14 @@
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\bin\Debug\netcoreapp3.1\BLC.deps.json
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\bin\Debug\netcoreapp3.1\BLC.dll
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\bin\Debug\netcoreapp3.1\BLC.pdb
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\bin\Debug\netcoreapp3.1\Enteties.dll
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\bin\Debug\netcoreapp3.1\Enteties.pdb
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\obj\Debug\netcoreapp3.1\BLC.csprojAssemblyReference.cache
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfoInputs.cache
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\obj\Debug\netcoreapp3.1\BLC.AssemblyInfo.cs
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CoreCompileInputs.cache
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\obj\Debug\netcoreapp3.1\BLC.csproj.CopyComplete
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\obj\Debug\netcoreapp3.1\BLC.dll
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\obj\Debug\netcoreapp3.1\BLC.pdb
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\bin\Debug\netcoreapp3.1\DALC.dll
+C:\Users\lilyh\source\repos\Tutors.Leb\BLC\bin\Debug\netcoreapp3.1\DALC.pdb
